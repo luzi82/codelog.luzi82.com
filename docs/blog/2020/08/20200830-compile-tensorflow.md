@@ -22,7 +22,7 @@ Tensorflow 對 NVIDIA CUDA 預設最低要求是 3.5，但 GTX 660 只是 CUDA 3
 - [NVIDIA CUDA Toolkit 10.2](https://developer.nvidia.com/cuda-toolkit-archive]) 。 Linux > x86_64 > Ubuntu > 18.04 > runfile(local)，把 base installer 和 Patch 1 都一同下載。
 - [NVIDIA cuDNN v7.6.5 for CUDA 10.2](https://developer.nvidia.com/rdp/cudnn-archive) 。
   - cuDNN Developer Library for Ubuntu18.04 (Deb)
-  - cuDNN Runtime Library for Ubuntu16.04 (Deb)
+  - cuDNN Runtime Library for Ubuntu18.04 (Deb)
   - cuDNN Code Samples and User Guide for Ubuntu18.04 (Deb)
 
 如果之前有安裝過 Debian 提供的 NVIDIA driver，就必需要先移除。
